@@ -1,0 +1,7 @@
+### Composer template
+/vendor/
+composer.lock
+
+.idea
+docker
+tmp

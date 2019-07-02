@@ -1,0 +1,20 @@
+{
+  "name": "glook/yiigrid",
+  "type": "library",
+  "description": "Standalone yii gridview",
+  "homepage": "https://github.com/glook/yiigrid",
+  "authors": [
+    {
+      "name": "Andrey Polyakov",
+      "email": "andrey@polyakov.im"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Glook\\YiiGrid\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=5.6"
+  }
+}
